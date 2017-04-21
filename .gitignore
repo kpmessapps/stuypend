@@ -1,3 +1,4 @@
+0-files/
 vendor/
 node_modules/
 
@@ -65,3 +66,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/nbproject/private/
